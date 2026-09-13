@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "年轻女性的超近特写肖像",
+  prompt: "{\n  \"prompt\": \"Ultra-close-up portrait of a stunning young East Asian woman with flawless porcelain skin, large sparkling dark brown eyes with long lashes, subtle pink blush, glossy red-tinted lips, long straight silky dark brown hair with subtle highlights, making a playful finger-frame gesture around one eye with both hands, extremely detailed long almond-shaped nails with glossy purple-marble and silver chrome galaxy nail art with tiny rhinestones, wearing black-and-white horizontal striped oversized knit sweater with ribbed cuffs, layered delicate silver necklaces with crystal pendants and small pink gems, soft studio lighting with bright white seamless background, high-fashion beauty editorial style, razor-sharp details, perfect skin texture with natural glow, shallow depth of field, shot on 85mm lens f/1.4, ultra-realistic photorealism, 8k, masterpiece, best quality\",\n  \"negative_prompt\": \"blurry, low resolution, deformed hands, extra fingers, missing fingers, bad anatomy, ugly nails, cheap makeup, overexposed, underexposed, text, watermark, logo, cartoon, 3d render, plastic skin, doll face, cross-eyed, distorted proportions, old, child\",\n  \"steps\": 60,\n  \"cfg_scale\": 7.5,\n  \"sampler\": \"DPM++ 2M Karras\",\n  \"width\": 832,\n  \"height\": 1216,\n  \"seed\": -1\n}",
+  tags: [],
+  source: {"name":"@Just_sharon7","url":"https://x.com/Just_sharon7/status/1995108671026803004"},
+  coverImage: "images/659.jpeg",
+};

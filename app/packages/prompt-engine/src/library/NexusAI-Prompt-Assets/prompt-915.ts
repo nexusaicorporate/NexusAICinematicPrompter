@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "照片转换成漫画",
+  prompt: "Crea una ilustración de cómic moderno usando mi imagen de referencia como personaje principal.\nEstilo inspirado en los cómics de superhéroes contemporáneos y novelas gráficas cinematográficas.\nEl personaje mantiene los rasgos faciales exactos y su identidad de la foto de referencia, transformados en un estilo cómic estilizado con líneas limpias pero expresivas.\nAñade contornos negros marcados, sombreado dinámico con tinta y colores de alto contraste.\nAplica efectos FX como energía brillante, chispas, estelas de movimiento, haces de luz y partículas sutiles para aumentar la acción y la intensidad.\nUsa una pose de acción dinámica o una postura poderosa, con perspectiva exagerada y ángulos dramáticos.\nEl fondo debe ser gráfico y cinematográfico: formas urbanas abstractas, líneas de velocidad o explosiones de energía, sin distraer del personaje.\nLa iluminación es dramática, con luces y sombras fuertes para dar profundidad e impacto.\nEstilo final: portada de cómic moderno de alta calidad, detalles nítidos, colores vibrantes, composición enérgica, ilustración profesional, impacto visual fuerte.\nNo cambies el rostro, solo estilízalo.",
+  tags: [],
+  source: {"name":"@ecommartinez","url":"https://x.com/ecommartinez/status/2001689993778249952"},
+  coverImage: "images/915.jpeg",
+};

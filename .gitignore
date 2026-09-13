@@ -1,0 +1,5 @@
+node_modules/
+.next/
+LibreTranslate/venv/
+.env
+.env.local

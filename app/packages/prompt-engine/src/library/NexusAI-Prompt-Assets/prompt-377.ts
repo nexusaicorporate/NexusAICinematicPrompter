@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "坐在现代地铁长椅上",
+  prompt: "Reference image: uploaded photo\nFace: keep the same face from the reference photo, calm and composed expression, eyes slightly hidden behind dark sunglasses. Preserve realistic proportions and lighting.\nPose: seated pose on a modern subway bench, one arm resting on the leg, the other hanging down loosely. The body leans slightly forward with casual confidence, one shoulder lowered. Clothes: oversized houndstooth-patterned jacket over black turtleneck, wide dark jeans, chunky lace-up boots. Accessories: narrow black sunglasses, subtle rings, crossbody strap barely visible.\nBackground: minimalistic urban metro interior with grey concrete walls, metallic accents, and modern geometric design. Lighting: diffused artificial indoor light, soft shadows, neutral color balance emphasizing grayscale tones. Atmosphere: moody street editorial — quiet confidence, understated power, cinematic stillness.\nFormat: 2:3 Do not replace face; keep the same person with realistic proportions and lighting accuracy.",
+  tags: ["fashion","interior","minimalist","nature","photography"],
+  source: {"name":"@eyishazyer","url":"https://x.com/eyishazyer/status/1982402145535373486"},
+  coverImage: "images/377.jpeg",
+};

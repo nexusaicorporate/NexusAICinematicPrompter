@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "年轻女性的韩式时尚特写肖像",
+  prompt: "\"subject\": {\n\"description\": \"A Korean-editorial close-up portrait of a young woman use attached photo with porcelain-white skin, captured in a fleeting instant as wind lifts her black hair mid-motion. A single narrow hard light beam strikes her face from a 45-degree diagonal angle, illuminating only the facial planes while everything else falls into deep shadow. A very faint prism/refraction rainbow appears subtly within the lit area, creating a cool, sharp, effortless swagger.\", \"mirror_rules\": null, \"age\": \"early 20s\", \"expression\": { \"eyes\": { \"look\": \"steady, unbothered\", \"energy\": \"cool confidence, detached\", \"direction\": \"toward the camera with a slight side gaze\" }, \"mouth\": { \"position\": \"slightly parted\", \"energy\": \"controlled, unapologetic\" }, \"overall\": \"cool, restrained, sharp swagger\" }, \"face\": { \"preserve_original\": true, \"makeup\": \"K-beauty clean matte look: softly structured brows, minimal eyeliner, low-saturation lips, porcelain skin with \n}",
+  tags: [],
+  source: {"name":"@iamsofiaijaz","url":"https://x.com/iamsofiaijaz/status/2002410368476627268"},
+  coverImage: "images/931.jpeg",
+};

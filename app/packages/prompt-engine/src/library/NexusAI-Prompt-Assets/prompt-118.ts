@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "品牌产品数字广告",
+  prompt: "A hyper-realistic, ultra-detailed 3D digital advertisement showcasing a Pepsi can bursting open at its center, sending a refreshing splash of carbonated cola into the air, with effervescent bubbles and ice cubes flying outward. The can’s metallic surface is rendered with sharp, photorealistic textures, complete with condensation droplets, light reflections, and subtle scratches. Surrounding the scene are cold, translucent ice shards and a twist of lemon zest caught mid-motion, adding a vibrant contrast. The background features a deep electric blue gradient with cinematic volumetric lighting and soft lens flares. Green mint leaves and misty vapors add a refreshing, natural accent. The entire scene is rendered in 4K UHD using advanced global illumination, HDR lighting, and realistic shadows. The composition evokes premium beverage advertising with a dramatic tone, created using tools like Unreal Engine + Octane Render for maximum visual impact.",
+  tags: ["branding","landscape","nature","photography","product","vehicle"],
+  source: {"name":"@shushant_l","url":"https://x.com/shushant_l/status/1931316125029339572"},
+  coverImage: "images/118.jpeg",
+};

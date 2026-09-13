@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "3X3女子肖像照拼贴画",
+  prompt: "Create a full Instagram-style 3×3 grid feed composed of nine different portrait images, all featuring the person and the dog from the attached image. ensure that the middle photo is the same photo as the attached image, Ensure the person’s identity, facial structure, and style remain consistent across all nine posts. Each of the 9 images should present a unique concept, outfit, pose, and environment that fits a stylish, modern Instagram aesthetic.\n Include a mix of:\n – Lifestyle shots\n – Cinematic portraits \n– Fashion/streetwear scenes\n – Close-up beauty shots\n – Travel or outdoor vibes \n– Cozy indoor moments \n– Minimalist studio portraits \n\nMake every image hyperrealistic and shot as if with a professional camera: \n– Natural skin texture\n – Accurate lighting\n – Sharp details \n– Professional depth of field\n – High-quality color grading \n– Authentic expressions and posing Ensure all 9 images feel coherent as a feed: \n– Consistent character likeness \n– Similar visual tone and color palette \n– Aesthetic balance across the grid \n– Cinematic and modern photography style\n\n Final deliverable: a 3×3 Instagram grid layout of nine separate 3:4 ratio hyperrealistic portraits of the person from the attached photo.",
+  tags: [],
+  source: {"name":"@craftian_keskin","url":"https://x.com/craftian_keskin/status/1994110561101979793"},
+  coverImage: "images/596.jpeg",
+};

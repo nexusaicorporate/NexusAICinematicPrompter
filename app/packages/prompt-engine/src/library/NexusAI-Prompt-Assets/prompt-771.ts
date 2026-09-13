@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "一幅俏皮时尚的肖像拼贴画",
+  prompt: "Recreate the character's appearance from the uploaded photo, accurately preserving hairstyle, facial details, and expression. Present it as a bright, fresh, and youthful fashion portrait in a vertical collage format.\n\nShe wears trendy youthful clothing, holding a red lollipop near her lips. Her face is playfully decorated with cute colorful stickers shaped like hearts, strawberries, and stars, creating a lively, stylish atmosphere. Her eyes are expressive, makeup is soft and natural, and her face shows a dreamy expression.\n\nThe background features a corkboard covered with colorful sticky notes and memo papers, creating a campus and journaling vibe. Hand-drawn doodles of stars, arrows, and similar elements add to the cute, magazine-style aesthetic. Surrounding the main subject are ～4 scrapbook-style photo frames in various shapes, showcasing different outfits and poses of the same person.\n\nOverall, the image should utilize soft studio lighting, high-definition details, a clean-cut scrapbook aesthetic, Korean fashion-magazine style, and vibrant colors.\n\nAspect ratio: 9:16.",
+  tags: [],
+  source: {"name":"@dotey","url":"https://x.com/dotey/status/1997191891553534399"},
+  coverImage: "images/771.jpeg",
+};

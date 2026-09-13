@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "成为自己漫画中的一部分",
+  prompt: "{  \"title\": \"Shopping Version\",\n  \"description\": {\n    \"real_woman\": {\n      \"appearance\": \"A real human woman wearing a stylish polka dot dress\",\n      \"pose\": \"Holding shopping bags with a happy expression\",\n      \"style\": \"Full photorealistic photography\",\n      \"details\": \"Vibrant colors, sharp detail, realistic skin texture, natural lighting\",\n      \"restriction\": \"Must remain photorealistic and not cartoon\"\n    },\n    \"background_comic\": {\n      \"style\": \"Intricately detailed multi-panel black-and-white comic strip\",\n      \"character\": \"Same woman depicted as a cartoon\",\n      \"story_panels\": [\n        \"Entering the store excitedly\",\n        \"Fighting over sale items\",\n        \"Trying ridiculous outfits\",\n        \"Struggling with an overflowing cart\",\n        \"Checking an empty wallet with a shocked expression\"\n      ],\n      \"connection\": \"Comic narrative continues directly from her realistic shopping pose\"\n    },\n    \"overall_goal\": \"Create a seamless story where the photorealistic woman is the 'real moment' inside her own comic adventure\"\n  }\n}",
+  tags: [],
+  source: {"name":"@xmiiru_","url":"https://x.com/xmiiru_/status/1999429065015488970"},
+  coverImage: "images/845.jpeg",
+};

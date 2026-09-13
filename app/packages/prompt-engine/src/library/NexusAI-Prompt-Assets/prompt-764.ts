@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "橱窗里出现了一个小小的动画版的自己",
+  prompt: "{\n  \"PROMPT\": \"Create a bright, high-end street-fashion photograph of the woman from the reference image, keeping her face, hair, body & outfit exactly the same. She stands outside a luxury toy-shop window, gently touching the glass. Inside the window display, place a full-height cartoon-style doll designed to resemble her—same features, hair, and outfit—transformed into a cute, big-eyed, stylized animated character. Crisp lighting, premium street-fashion look, realistic reflections, face unchanged.\",\n  \"settings\": {\n    \"style\": \"high-end street fashion\",\n    \"lighting\": \"crisp and bright\",\n    \"environment\": \"outside luxury toy-shop window\",\n    \"subject\": \"woman from reference image\",\n    \"focus\": [\"face\", \"hair\", \"body\", \"outfit\"],\n    \"additional_elements\": [\n      {\n        \"type\": \"doll\",\n        \"style\": \"cartoon-style, big-eyed, stylized\",\n        \"location\": \"inside window display\",\n        \"resemblance\": \"exact features, hair, outfit of woman\"\n      }\n    ],\n    \"reflections\": \"realistic\",\n    \"photorealism\": true\n  }\n}",
+  tags: [],
+  source: {"name":"@xmiiru_","url":"https://x.com/xmiiru_/status/1997182817235583293"},
+  coverImage: "images/764.jpeg",
+};

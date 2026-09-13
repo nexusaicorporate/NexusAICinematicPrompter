@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "将漫画人物转化为超逼真的人类",
+  prompt: "Transform this comic character into an ultra-realistic human while preserving the original hairstyle, outfit, facial expression, and overall character identity.\nThe entire scene should use deep depth of field, keeping both the model and the environment extremely sharp, creating an immersive, cinematic smartphone photography look.\n\nSTYLE:\n- Cinematic ultra-realistic fashion photography\n- High-resolution smartphone camera aesthetic with crisp, sharp details\n- Dramatic lighting contrast between warm work lights and cool twilight tones\n- the model is the main subject while retaining rich environmental details\n\nTECHNICAL SPECS:\n- Camera: flagship smartphone camera\n- Lens: standard built-in phone lens\n- Aperture: f/8–f/11 for deep depth of field\n- Resolution: 4K or higher\n\nNEGATIVE PROMPT:\n- blurry background, shallow depth of field, bokeh\n- out of focus, distorted face\n- cartoon, anime, CGI character, illustration, painting look\n- low quality, pixelation, noise\n- harsh direct sunlight or overexposed lighting",
+  tags: [],
+  source: {"name":"@dotey","url":"https://x.com/dotey/status/1996281855503372510"},
+  coverImage: "images/734.jpeg",
+};

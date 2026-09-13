@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "霓虹玻璃发光",
+  prompt: "Recreate this image using the parameters from the JSON provided.\n{\n  \"name\": \"Neon Glass Glow\",\n  \"style\": {\n    \"material\": {\n      \"type\": \"glass\",\n      \"transparency\": 0.92,\n      \"reflectivity\": 1.0,\n      \"refractionIndex\": 1.6,\n      \"color\": \"#ff00ff\",\n      \"emission\": {\n        \"color\": \"#ff66ff\",\n        \"intensity\": 0.8\n      },\n      \"surfaceFinish\": \"glossy\",\n      \"bloom\": true,\n      \"detail\": \"high\"\n    },\n    \"outline\": {\n      \"enabled\": true,\n      \"color\": \"#ffccff\",\n      \"width\": 1.8\n    },\n    \"lighting\": {\n      \"type\": \"studio\",\n      \"keyLightColor\": \"#ffffff\",\n      \"keyLightIntensity\": 1.0,\n      \"fillLightColor\": \"#9900ff\",\n      \"fillLightIntensity\": 0.7,\n      \"rimLightColor\": \"#00ffff\",\n      \"rimLightIntensity\": 0.7,\n      \"shadows\": \"crisp\"\n    },\n    \"background\": {\n      \"type\": \"solid\",\n      \"color\": \"#000000\"\n    },\n    \"render\": {\n      \"shadows\": true,\n      \"antiAliasing\": true,\n      \"superSampling\": \"4x\",\n      \"resolution\": \"high\",\n      \"depthOfField\": {\n        \"enabled\": true,\n        \"focusDistance\": 0.8,\n        \"blurAmount\": 0.1\n      }\n    }\n  }\n}",
+  tags: ["neon"],
+  source: {"name":"@alban_gz","url":"https://x.com/alban_gz/status/1925446996468371893"},
+  coverImage: "images/92.jpeg",
+};

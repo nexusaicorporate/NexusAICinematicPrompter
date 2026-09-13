@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "赛博朋克美学风格卡片",
+  prompt: "A 9:16 vertical, photorealistic cyber-aesthetic futuristic social-app interface. A hand is holding a vertical, iPhone-sized, borderless acrylic card, taking up most of the frame. The card displays a social media profile interface with no banners or background images. Its smooth, rounded edges emit a soft neon glow in blue, pink, and purple gradients.\n\nThe background is dark and blurred, emphasizing the glowing edges; the light reflections on the fingers feel cinematic and atmospheric, creating a high-tech holographic mood. The card surface is crystal-clear, and the profile details appear almost engraved, showing only the information from the reference image.\n\nDisplayed in this exact order:\n\n- Profile avatar (centered)\n- Name + blue verification badge (centered)\n- Username with “@”, e.g., \n@dotey\n (centered)\n- Bio (left-aligned)\n- Location, website (left-aligned)\n- Join date (left-aligned)\n- Following count & followers count (left-aligned)\n- Follow button (full-width, transparent background, rounded-full, border with soft neon glow)",
+  tags: [],
+  source: {"name":"@dotey","url":"https://x.com/dotey/status/1995633652139442373"},
+  coverImage: "images/705.jpeg",
+};

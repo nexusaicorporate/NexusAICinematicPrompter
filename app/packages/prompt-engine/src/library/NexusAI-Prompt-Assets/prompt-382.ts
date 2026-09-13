@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "3D chibi风格乙烯基收藏品",
+  prompt: "A 3D chibi-style vinyl collectible figure of [CHARACTER NAME] Big head, small body, cartoon proportion, Standing inside a Youtooz-style\npackaging box with: Transparent front window\n\"YOUTOOZ COLLECTIBLES\" logo on the top\nNumber label ([#XXX]) on the top-left\nBottom front text: “[CHARACTER NAME]” and lower with smaller font “VINYL FIGURE”\nCartoon 2D illustration of [CHARACTER NAME] on the side of the box ([ILLUSTRATION DESCRIPTION])\n\nBackground/theme:\n[BOX COLORS + TEXTURES + ICONIC MOTIFS RELATED TO CHARACTER] \n[Figure POSE OR GESTURE] \n[Outfit DESCRIPTION + SIGNATURE ITEMS]\n\nFace details: The facial features (mouth/eyes/details) must be fully 3D sculpted, not flat or printed.\nLighting: clean product photography look, minimal soft shadows\nStyle: vinyl-toy aesthetic with a mix of matte + glossy accents depending on costume, Composition: 3/4 product shot view, full box visible. The entire packaging box must be fully visible inside the frame with a clean margin around all edges.",
+  tags: ["cartoon","character","fashion","illustration","logo","minimalist","nature","photography","portrait","product","toy","typography","vehicle"],
+  source: {"name":"@Arminn_Ai","url":"https://x.com/Arminn_Ai/status/1982860799879114903"},
+  coverImage: "images/382.jpeg",
+};

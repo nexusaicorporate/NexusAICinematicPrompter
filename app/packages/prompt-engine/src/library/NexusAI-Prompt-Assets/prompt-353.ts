@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "电影感的超现实主义肖像画",
+  prompt: "A cinematic, hyper-realistic portrait of \n@simplyannisa\n, keeping her real facial features completely unchanged. The woman sits at a wooden table, leaning slightly forward, with her right forearm resting naturally on the surface. Her right hand gently holds a dark ceramic mug with the word “\n@simplyannisa\n” written on it. Her fingers are slender, relaxed, and slightly curved. Her left arm is bent at the elbow, resting casually on the table. She wears a dark gray, slightly loose long-sleeve Henley top with the top buttons undone, subtly revealing a delicate neckline. Her hair falls naturally around her shoulders, soft waves catching the light. Her gaze is directed to the side, away from the camera, carrying a thoughtful and mysterious expression. The lighting is soft and moody, emphasizing the texture of her hair and face while adding cinematic contrast and emotional depth. The portrait is shot at eye level with an 85mm lens effect and a shallow depth of field, keeping her face and upper body in sharp focus while the background softly blurs. The overall color grading is muted and cinematic, with cool tones, soft shadows, and a minimalist dark background.",
+  tags: ["minimalist","nature","portrait","vehicle"],
+  source: {"name":"@SimplyAnnisa","url":"https://x.com/SimplyAnnisa/status/1980503919492272216"},
+  coverImage: "images/353.jpeg",
+};

@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "高端专业平铺式产品摄影",
+  prompt: "Fotografía de producto profesional estilo 'Knolling' (Flat Lay) de alta gama, representando una cápsula del tiempo del año [AÑO].\n\nComposición: Organización cenital meticulosamente alineada en una cuadrícula perfecta de 90 grados.\nFondo: Superficie sólida mate de color [COLOR QUE CONTRASTE, EJ: AMARILLO MOSTAZA / AZUL ELÉCTRICO].\n\nSujetos (Autogeneración Histórica): Selecciona y renderiza con precisión fotográfica los 5 objetos tecnológicos o de cultura pop más icónicos lanzados específicamente en [AÑO]. Incluye 5-7 accesorios menores correspondientes a la época (cables, medios de almacenamiento, papelería o dulces retro).\n\nElemento Central: El año \"[AÑO]\" está escrito en el centro exacto de la cuadrícula utilizando tipografía física y táctil (letras de plástico recortado, madera o metal) con una fuente acorde a la década.\n\nIluminación y Estética: Iluminación de estudio \"Softbox\" cenital, completamente difusa y sin sombras duras (shadowless).\n\nEstilo: Simetría obsesiva tipo Wes Anderson, vibrante, deconstruido, organizado y visualmente satisfactorio.\nRenderizado: Fotorealismo 8k, texturas de plástico y metal detalladas.",
+  tags: [],
+  source: {"name":"@elCarlosVega","url":"https://x.com/elCarlosVega/status/2002824697013297266"},
+  coverImage: "images/957.jpeg",
+};

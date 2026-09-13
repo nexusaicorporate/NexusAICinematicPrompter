@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "人手拿着一颗巨大的竖式药丸的特写镜头",
+  prompt: "Extreme close-up of a human hand holding a giant vertical pill.\nThe pill has a clear glass top section and the lower 3/4 is matte bright-red, with bold, clean, perfectly aligned typography that reads: BASKETBALL LEGENDARY.\nInside the pill, show a person whose face must match the attached photo 100% exactly — no changes to facial structure, proportions, expression baseline, or any detail. The face must display a natural, realistic, wide laughing expression.\nInside the pill, the person is performing a dynamic basketball dribbling pose with high energy, labeled with the account name 'MICHAEL JORDAN'.\nScene style: funny, chaotic, thrilling, slightly creepy, and intense.\nBackground: an NBA basketball court, with full cinematic lighting, dramatic shadows, and rich color depth.\nCamera angle: aerial extreme close-up focused on the pill in the hand.\nTexture: ultra-HD realism with fine grain, crisp micro-details, glass reflections, and smooth matte material fidelity.\nRatio 3:4.\nEnsure motion, energy, and dynamic movement inside the pill while keeping the pill perfectly vertical.",
+  tags: [],
+  source: {"name":"@ShreyaYadav___","url":"https://x.com/ShreyaYadav___/status/1995145004269068406"},
+  coverImage: "images/654.jpeg",
+};

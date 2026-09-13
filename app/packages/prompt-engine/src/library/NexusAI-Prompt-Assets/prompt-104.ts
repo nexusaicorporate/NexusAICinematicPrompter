@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "珐琅马赛克瓷砖风格",
+  prompt: "Visualize any selected emoji [] as an ultra-detailed, hyper-realistic 3D sculpture fully composed of luxurious enamel mosaic tiles. The emoji should retain its iconic silhouette and proportions, reinterpreted as a stylized 3D figure made entirely from curved, faceted, and geometrically interlocked enamel tiles in a radiant mosaic pattern.\n> Use high-gloss enamel tiles in varied shades derived from the emoji’s symbolic palette—integrating metallic accents, opalescent glazes, deep ceramic pigmentation, and subtle iridescence. Tile surfaces must exhibit gentle bevels, crisp joints, and tactile depth to emulate elite architectural mosaic work.\n> Ensure no visible support structures—the figure must appear freestanding and weightless, suspended mid-air at the exact center of the frame.\n> Background: pure white studio environment with soft ambient shadows directly beneath the sculpture to emphasize spatial presence and floating realism.\n> Lighting: cinematic, diffused from multiple angles to",
+  tags: ["emoji","landscape","sculpture"],
+  source: {"name":"@mariia_gonchar","url":"https://x.com/mariia_gonchar/status/1931774946608370013"},
+  coverImage: "images/104.png",
+};

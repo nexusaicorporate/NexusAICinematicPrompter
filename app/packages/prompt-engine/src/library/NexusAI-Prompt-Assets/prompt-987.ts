@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "九宫格拼贴画",
+  prompt: "{\n  \"project_settings\": {\n    \"task_type\": \"Single_Image_Contact_Sheet (9-Grid)\",\n    \"aspect_ratio\": \"3:4\",\n    \"resolution_mode\": \"High / Upscale (Crucial for face details in grids)\",\n    \"batch_size\": 1\n  },\n  \"reference_config\": {\n    \"usage\": \"Upload Reference Image -> Set Strength to 0.5-0.7\",\n    \"purpose\": \"Define the 3x3 grid structure and character identity\"\n  },\n  \"prompt_payload\": {\n    \"structure_trigger\": \"A single contact sheet image containing a 3x3 photo grid matrix\",\n    \"grid_logic\": \"9 distinct panels separated by thin white borders\",\n    \"subject_consistency\": \"Same young asian woman in all 9 panels, identical outfit, identical hairstyle\",\n    \"expression_variation\": \"9 different facial expressions (winking, tongue out, surprised, laughing, serious, etc.)\",\n    \"camera_angles\": \"Varied angles in each panel (high angle, low angle, straight on)\",\n    \"visual_style\": \"Photorealistic, Studio lighting, Light grey background, K-pop idol photocard style\"\n  },\n  \"negative_prompt\": [\n    \"One single portrait\",\n    \"merged bodies\",\n    \"distorted grid lines\",\n    \"missing panels\",\n    \"cartoon\",\n    \"illustration\",\n    \"different clothes\"\n  ]\n}",
+  tags: [],
+  source: {"name":"@msjiaozhu","url":"https://x.com/msjiaozhu/status/2003819615282229720"},
+  coverImage: "images/987.jpeg",
+};

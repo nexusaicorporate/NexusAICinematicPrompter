@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "微缩3D立体模型",
+  prompt: "Present a clear, 45° top-down isometric miniature 3D diorama of the iconic vehicle [VEHICLE NAME].\n\nThe vehicle is the main focus, placed on a small raised diorama-style base that reflects its most recognizable environment\n(e.g. road, runway, ocean, space, racetrack), with subtle contextual details and tiny stylized figures if appropriate.\n\nUse soft refined textures, realistic PBR materials, and gentle cinematic lighting.\nThe vehicle should feel premium, collectible, and instantly recognizable at a glance.\n\nUse a clean solid [BACKGROUND COLOR] background with no gradients.\n\nAt the top-center, display “[VEHICLE NAME]” in large bold text.\nDirectly beneath it, display a short descriptor in medium text (e.g. “Iconic Movie Car”, “World’s Fastest Train”).\nOptionally place an official logo or emblem below the text.\n\nAll text must automatically match background contrast (white or black).\nComposition: perfectly centered, square 1080x1080, ultra-clean high-clarity diorama aesthetic.",
+  tags: [],
+  source: {"name":"@TechieBySA","url":"https://x.com/TechieBySA/status/2000876376287576430"},
+  coverImage: "images/882.jpeg",
+};

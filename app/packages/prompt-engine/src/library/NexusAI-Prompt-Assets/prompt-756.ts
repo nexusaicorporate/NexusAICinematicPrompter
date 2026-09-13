@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "女子赤脚盘腿坐在简朴的木椅上",
+  prompt: "[Prompt]\nMain_Subject = A woman with long dark hair sits on a simple wooden chair, legs crossed, bare feet. She wears an off-the-shoulder white top and beige/sand-colored jogger pants. Her posture is relaxed as she looks to the left, gazing intently at the artwork. She holds a pair of sunglasses/reading glasses in her right hand.\n\nArtwork = A large black-and-white pencil/charcoal drawing hangs on the right wall. It is a dramatic, high-contrast portrait of the same woman wearing the same outfit.\n\nBackground = Smooth white minimalist wall that creates a clean, modern aesthetic.\n\nAdditional_Elements = Two empty wooden frames stacked on the floor (one large natural wood, one smaller white). A small decorative object resembling a rustic windmill or tiny house is placed near the frames.\n\nAtmosphere = Artistic, contemplative, neutral-toned. Strong visual dialogue between the woman and her own portrait. Calm, modern, gallery-like mood.\n\nSignature = Shreya Yadav\nImage_Ratio = 3:4\n\n[Style]\nRendering = Ultra realistic, soft natural lighting, gentle shadows, high clarity.\nColor_Palette = White, beige, wood tones, black-and-white artwork contrast.\nComposition = Balanced; woman on left, artwork on right, décor elements below.\n\n[Output]\nFormat = Photographic image\nQuality = High detail, professional art-scene aesthetic",
+  tags: [],
+  source: {"name":"@ShreyaYadav___","url":"https://x.com/ShreyaYadav___/status/1997306169845792963"},
+  coverImage: "images/756.jpeg",
+};

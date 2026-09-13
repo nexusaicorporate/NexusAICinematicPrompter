@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "品牌解锁童年回忆",
+  prompt: "A realistic, cinematic photograph of a vintage [BRAND NAME] item being gently lifted from a dusty stack of old children's books in a dimly lit attic. The item is designed in classic [BRAND NAME] style—featuring authentic patterns, textures, or logos (e.g. monograms, embossing, or signature motifs relevant to the brand). It is partially opened to reveal a miniature, warmly lit classroom inspired by [COUNTRY] school interiors, complete with small regional-style desks, a chalkboard with delicate handwriting in [LANGUAGE], and traditional local details like shoes, posters, or flags. A paper airplane hovers mid-air. The lighting is moody and nostalgic, with soft shadows and golden highlights suggesting afternoon light filtering through attic beams. On the top book cover at the bottom of the image, the [BRAND NAME] logo is written in an elegant, fountain-pen calligraphy style—subtle, integrated into the scene, and not obscuring the main subject.",
+  tags: ["branding","interior","nature","paper-craft","photography","poster","retro"],
+  source: {"name":"@TheRelianceAI","url":"https://x.com/TheRelianceAI/status/1925606107608715268"},
+  coverImage: "images/87.png",
+};

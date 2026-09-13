@@ -1,0 +1,33 @@
+{
+  "name": "@prompt-creator/web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@prompt-creator/db": "workspace:*",
+    "@prompt-creator/content-gate": "workspace:*",
+    "@prompt-creator/prompt-engine": "workspace:*",
+    "@prompt-creator/ai-adapter": "workspace:*",
+    "@prompt-creator/ui": "workspace:*",
+    "@prompt-creator/docs": "workspace:*",
+    "next": "15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^1.16.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "postcss": "^8.4.38",
+    "typescript": "^5.8.2"
+  }
+}

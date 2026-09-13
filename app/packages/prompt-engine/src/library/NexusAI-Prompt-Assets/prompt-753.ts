@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "一个微型人修眉",
+  prompt: "{\n \"subject\": {\n \"main_character\": \"A photorealistic, living miniature man (Lilliputian size), not a plastic figure\",\n \"attire\": \"Casual gardening clothes, blue jeans, white t-shirt\",\n \"equipment\": \"A tiny, realistic red push-lawnmower\"\n },\n \"action\": \"The man is pushing the lawnmower over a giant human eyebrow, trimming the long eyebrow hairs as if mowing a lawn\",\n \"setting\": {\n \"location\": \"Extreme close-up macro view of a human forehead and closed eye\",\n \"surface_details\": \"Giant-scale skin texture, visible pores, wrinkles, and coarse eyebrow hair\"\n },\n \"style\": [\n \"Surreal conceptual photography\",\n \"Hyper-realistic\",\n \"Macro photography\",\n \"Humorous\",\n \"High contrast\",\n \"Sharp focus\"\n ],\n \"technical_details\": {\n \"lighting\": \"Hard, direct lighting mimicking sunlight to create distinct shadows on the skin\",\n \"camera\": \"Macro lens, shallow depth of field, focus on the miniature man and the eyebrow\",\n \"resolution\": \"8k, ultra-detailed\"\n }\n}",
+  tags: [],
+  source: {"name":"@egeberkina","url":"https://x.com/egeberkina/status/1997318054431052221"},
+  coverImage: "images/753.jpeg",
+};

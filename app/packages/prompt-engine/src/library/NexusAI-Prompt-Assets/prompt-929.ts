@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "女子面部的超近距离微距肖像",
+  prompt: "{\n  \"prompt_description\": {\n    \"subject\": \"Extreme close-up macro portrait of a young woman's face, partial view focusing on one eye, nose, and lips\",\n    \"skin_texture\": \"Hyper-realistic skin details, visible pores, dewy and fresh complexion, soft porcelain skin tone\",\n    \"eyes\": \"Sharp brown iris with highly detailed eyelashes, clear catchlight reflection, intense and soft gaze\",\n    \"hair\": \"Wet, messy strands of light brown hair falling naturally across the face and eye\",\n    \"lips\": \"Soft natural pink lips, subtle texture, slightly parted\"\n  },\n  \"artistic_style\": {\n    \"lighting\": \"Soft diffused cool lighting, cinematic blue tones, ambient soft shadows\",\n    \"aesthetic\": \"Photorealistic, Cinematic, Masterpiece, Raw photo quality, 8k resolution\"\n  },\n  \"camera_settings\": {\n    \"lens\": \"85mm\",\n    \"shot_type\": \"Macro / Extreme Close-up\",\n    \"aperture\": \"f/1.8 (shallow depth of field)\",\n    \"focus\": \"Sharp focus on the eye\"\n  },\n  \"output_parameters\": {\n    \"aspect_ratio\": \"1:1 (Square)\",\n    \"signature\": \"VIVEK HY\",\n    \"signature_location\": \"Bottom right corner\"\n  }\n}",
+  tags: [],
+  source: {"name":"@Vivekhy","url":"https://x.com/Vivekhy/status/2002080283873714488"},
+  coverImage: "images/929.jpeg",
+};

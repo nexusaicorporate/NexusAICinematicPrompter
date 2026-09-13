@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "动物和人类都变成了霓虹玻璃生物",
+  prompt: "Create an imaginative, ultra-surreal image based on the provided picture or description.\n\nReimagine the scene ${SCENE} by transforming all ${SUBJECTS} (animals, humans, creatures) into surreal beings made of transparent glass and glowing neon lights. Their bodies resemble crystal sculptures that refract ambient light, while vibrant neon streams (colors like electric blue, magenta, purple, orange-gold, etc.) flow inside them, emitting a soft yet radiant glow into the environment.\n\nKeep the original structure and layout of the scene, but re-render the lighting and atmosphere to respond to these luminous glass beings—reflections, refractions, glowing highlights, and atmospheric color shifts.\n\nThe overall mood should be dreamlike, futuristic, vividly colored, highly detailed, and visually stunning, as if the world is illuminated by living neon glass creatures in a surreal alternate reality.\n\n-----\n\nSCENE: At the boundary between sunset and nightfall on the African savannah, where orange-red sunlight merges into deep blue twilight. Silhouetted acacia trees stretch across the horizon as animals wander through the glowing dust-lit grassland.",
+  tags: [],
+  source: {"name":"@dotey","url":"https://x.com/dotey/status/1998454127152500959"},
+  coverImage: "images/820.jpeg",
+};

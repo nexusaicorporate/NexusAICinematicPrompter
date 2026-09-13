@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "手绘风格的时尚风格概念分解图",
+  prompt: "A fashion-style concept breakdown sheet in hand-drawn illustration style. \nCenter: full-body view of a stylish, confident female character with a slightly sexy vibe (not explicit), in a dynamic yet natural pose. \nSurrounding: structured layout of her key components:\n• Clothing layering – show outerwear, innerwear, tights (lace, sheer textures), shapewear with detailed pattern zoom-ins.  \n• Expression sheet – 3-4 facial expressions (neutral, shy, surprised, focused).\n• Close-up zooms – textures of fabric folds, skin details, hand gestures.\n• Lifestyle & accessories – open handbag with daily items: lipstick, perfume, mirror compact, hand cream, diary, supplements.\n• Material annotations – handwritten-style notes beside each item (e.g., “soft lace,” “matte leather,” “shade #520”).\n\nBackground: soft beige or parchment paper texture to evoke a design sketchbook.\nLighting: clean, soft shadows to unify the scene.\nOutput: high-quality 2D illustration in 4K, balanced between sensuality and fashion editorial.\nLanguage: labels in Chinese + English.",
+  tags: [],
+  source: {"name":"@cheerselflin","url":"https://x.com/cheerselflin/status/1992877077570453712"},
+  coverImage: "images/550.jpeg",
+};

@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "现代芝加哥河滨清明上河图风格",
+  prompt: "A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's \"Along the River During the Qingming Festival.\"\n\nCentral Scene: A bird's-eye view of the bustling modern Chicago riverfront. The focus is the massive steel bascule bridge (DuSable Bridge/Michigan Avenue Bridge), jammed with heavy contemporary traffic including countless cars, yellow taxis, and CTA buses, all rendered with precise traditional brushstrokes.\n\nEnvironmental Details: The Chicago River below is filled with modern architectural tour boats, water taxis, and kayakers. The riverbanks are lined with dense, vintage-style Chicago skyscrapers (resembling the Wrigley Building and Tribune Tower), drawn using traditional \"jiehua\" architectural painting techniques. An elevated railway structure with a moving 'L' train is visible in the background.\n\nHuman Activity: The Riverwalk and bridge sidewalks are packed with hundreds of tiny contemporary figures in modern casual clothing. They are shown jogging, taking photos with smartphones, queuing at street food vendors (hot dog stands), and walking dogs. The entire scene is incredibly detailed, chaotic, and rendered in a muted, antique earth-tone palette.",
+  tags: [],
+  source: {"name":"@dotey","url":"https://x.com/dotey/status/1992469131438719122"},
+  coverImage: "images/551.jpeg",
+};

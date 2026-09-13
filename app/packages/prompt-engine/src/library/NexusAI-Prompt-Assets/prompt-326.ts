@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "电影感街头美女摄影",
+  prompt: "CINEMATIC STREET PHOTOGRAPHY, STYLISH YOUNG WOMAN IN MOTION, URBAN ENVIRONMENT, MOTION BLUR EFFECT. BLURRED PEDESTRIANS PASSING BY, SHALLOW DEPTH OF FIELD, NATURAL OVERCAST LIGHTING, SOFT PASTEL TONES, EDITORIAL FASHION PHOTOGRAPHY, CANDID MOMENT, DYNAMIC MOVEMENT, FILM AESTHETIC, MUTED COLORS",
+  tags: ["fashion","landscape","nature","photography"],
+  source: {"name":"@SimplyAnnisa","url":"https://x.com/SimplyAnnisa/status/1977191937330336130"},
+  coverImage: "images/326.jpeg",
+};

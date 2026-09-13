@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "鱼眼镜头下的日本女子比心",
+  prompt: "{\n  \"image_specifications\": {\n    \"format\": \"photograph\",\n    \"style\": \"highly detailed, Y2K-inspired, gritty\",\n    \"lens\": \"fisheye\",\n    \"angle\": \"low-angle\",\n    \"shot\": \"close-up\",\n    \"lighting\": \"harsh, high contrast\",\n    \"colors\": \"saturated\",\n    \"background\": {\n      \"setting\": \"urban, dark, street or subway in Tokyo\",\n      \"effects\": \"subtle bokeh\"\n    }\n  },\n  \"subject\": {\n    \"type\": \"model\",\n    \"style\": \"Japanese Ganguro or Gyaru\",\n    \"appearance\": {\n      \"hair\": \"platinum blonde with dark roots\",\n      \"makeup\": {\n        \"eyes\": \"heavy eye makeup\",\n        \"lips\": \"light lipstick\"\n      },\n      \"clothing\": [\n        \"faux fur vest\",\n        \"distressed black denim top\"\n      ],\n      \"accessories\": [\n        \"large gold cross pendant on a chain\",\n        \"leopard-print choker\"\n      ],\n      \"hands\": {\n        \"position\": \"foreground, forming a heart shape around face\",\n        \"nails\": \"long, heavily jeweled and decorated (deconails)\"\n      }\n    },\n    \"pose\": \"looking directly at the camera\"\n  }\n}",
+  tags: [],
+  source: {"name":"@xmiiru_","url":"https://x.com/xmiiru_/status/1994036974961705057"},
+  coverImage: "images/580.jpeg",
+};

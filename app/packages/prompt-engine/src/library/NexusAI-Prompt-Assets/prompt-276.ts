@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "马赛克彩色玻璃徽章",
+  prompt: "create image:\n{\n  \"style\": \"mosaic stained glass emblem\",\n  \"object\": \"brand logo\",\n  \"brand\": {\n    \"name\": \"Spotify\",\n    \"logo_shape\": \"circular\",\n    \"icon_style\": \"three curved bars\",\n    \"color_palette\": {\n      \"primary\": \"#1DB954\",\n      \"secondary\": \"#1ED760\",\n      \"glass_variants\": [\"#147A3E\", \"#0F5C30\", \"#26C178\"]\n    }\n  },\n  \"material\": {\n    \"type\": \"colored glass\",\n    \"effect\": \"semi-transparent with light reflections\",\n    \"outline\": {\n      \"color\": \"#111111\",\n      \"width\": \"medium\",\n      \"style\": \"lead-line traditional mosaic\"\n    }\n  },\n  \"composition\": {\n    \"layout\": \"logo composed of tessellated glass pieces\",\n    \"geometry\": \"irregular but fitted glass shapes\",\n    \"contrast\": \"dark outlines define shape clearly\"\n  },\n  \"lighting\": {\n    \"type\": \"diffused natural light\",\n    \"highlight\": \"glass texture and color depth emphasized\"\n  },\n  \"background\": {\n    \"type\": \"flat surface\",\n    \"color\": \"#F4F4F4\"\n  },\n  \"camera\": {\n    \"angle\": \"top-down\",\n    \"focus\": \"centered on entire logo\"\n  },\n  \"render\": {\n    \"quality\": \"high\",\n    \"shadows\": \"soft\",\n    \"reflections\": \"minimal\"\n  }\n}",
+  tags: ["branding","logo","minimalist","nature"],
+  source: {"name":"@miilesus","url":"https://x.com/miilesus/status/1925157350068900103"},
+  coverImage: "images/276.png",
+};

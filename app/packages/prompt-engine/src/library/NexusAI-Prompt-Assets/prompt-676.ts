@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "夜晚吐舌头女生的自拍照",
+  prompt: "[Image_Specifications]\nType = Realistic Portrait\nStyle = Douyin Aesthetic\nResolution = High Quality\n\n[Subject_Details]\nDemographics = Young Asian woman\nFacial_Structure = 100% original face (no editing)\nHair_Texture = Straight, shiny\nHair_Color = Black\nHair_Length = Long\n\n[Makeup_&_Styling]\nStyle = Douyin-style\nEye_Makeup = Highlights large eyes, long eyelashes\nCheeks = Rosy\nNails = Long, painted beautiful dark black\n\n[Apparel_&_Accessories]\nEyewear = Thin silver-framed eyeglasses\nTop = Black strapless top with a single strap\nWaist_Accessory = Brown and gold striped fabric belt (tied in a bow)\nNecklace = Small silver Vivienne Westwood Orb pendant\n\n[Pose_&_Expression]\nAction = Taking a selfie\nAngle = From above\nRight_Arm = Raised, holding the phone\nLeft_Hand = Holding a round black lollipop\nExpression = Confident gaze, tongue slightly sticking out\n\n[Environment_&_Background]\nLocation = Outdoor parking lot\nTime_of_Day = Night\nGround_Surface = Gray concrete with white parking lines\nFeatured_Vehicle = Black Bugatti (visible grille and bumper)\nLighting_Conditions = Dimly lit by street lamps and distant city lights",
+  tags: [],
+  source: {"name":"gpt4o-image-prompts","url":"https://github.com/songguoxs/gpt4o-image-prompts"},
+  coverImage: "images/676.jpeg",
+};

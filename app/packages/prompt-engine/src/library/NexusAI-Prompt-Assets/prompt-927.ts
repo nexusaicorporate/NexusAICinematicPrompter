@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "女性站在KAWS风格艺术雕塑旁",
+  prompt: "{\n  \"prompt\": \"Ultra realistic fashion editorial photography of a stylish young woman posing next to a gray KAWS-style art figure, One knee on the floor, one leg bent forward, body slightly angled, one arm resting casually on the statue’s head, the other hand on hip. Confident fierce expression, sharp gaze toward camera. Wearing a vibrant orange bucket hat with butterfly emblem, white fitted crop t-shirt with orange butterfly graphics, bright orange track pants with white piping, white sneakers Small orange shoulder bag, subtle tattoos visible, braided hair accents, minimal jewelry. Monochrome orange streetwear aesthetic. Minimalist indoor space with gray walls and clean floor. Soft diffused studio lighting, realistic skin texture, sharp focus, high fashion streetwear vibe, professional photography, ultra-detailed, 8K resolution. Don't change original face\",\n  \"negative_prompt\": \"low quality, blur, bad anatomy, extra fingers, extra limbs, distorted pose, cartoon, anime, illustration\",\n  \"parameters\": {\n    \"aspect_ratio\": \"2:3\",\n    \"version\": \"6\",\n    \"style\": \"raw\",\n    \"quality\": 2\n  }\n}",
+  tags: [],
+  source: {"name":"@xmiiru_","url":"https://x.com/xmiiru_/status/2002578056628601143"},
+  coverImage: "images/927.jpeg",
+};

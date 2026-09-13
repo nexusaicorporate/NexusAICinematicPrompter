@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "现实世界传送门动漫角色跨界场景",
+  prompt: "A glowing oval portal stands between {Real_World_Scene} and {Portal_Inner_Scene}.\n\nOutside the portal, the real-world environment is {Real_World_Scene}, depicted with realistic textures, grounded atmosphere, and gritty or natural tones.\n\nInside the portal lies {Portal_Inner_Scene}, vibrant, imaginative, and contrasting sharply with the real world.\n\n{Portal_Inner_Character} is stepping through the portal, turning back with a dynamic glance while holding the viewer’s hand, as if guiding them into the other world.\n\nThe portal emits mystical blue-purple light, drawn with clean outlines and soft shading consistent with the character’s style.\n\nOptional overall visual style: {Art_Style} (defaults to a bold contrast between anime and reality).\n\nCamera angle: third-person perspective, clearly showing the viewer’s hand being pulled into the new world.  \nNo blur; sharp visual distinction between the two worlds.  \nAspect ratio: 2:3.  \n\n----\nReal_World_Scene: A winter street in Tokyo, low-saturation neon lights with a faint snowy haze\nPortal_Inner_Scene:  A futuristic city street glowing with blue holograms, neon refracting through the air\nPortal_Inner_Character: A cyborg girl with mechanical limbs wearing a semi-armored exosuit",
+  tags: [],
+  source: {"name":"@dotey","url":"https://x.com/dotey/status/1998784442052014356"},
+  coverImage: "images/827.jpeg",
+};

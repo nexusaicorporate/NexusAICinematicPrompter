@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "一位面带微笑的人手持可口可乐铝罐",
+  prompt: "Studio portrait of one smiling person holding a Fanta orange aluminum can close to the camera, with both the can and the person’s head in the foreground. Shot using an ultra-wide fisheye lens for a playful, energetic, immersive perspective.\nThe model wears a glossy vibrant orange puffer jacket inspired by Fanta branding, layered over a bright white t-shirt.\nBackground in a bold citrus-orange gradient with subtle yellow highlights, perfectly color-matched to Fanta’s brand palette, smooth modern transitions.\nDiffused cinematic studio lighting, juicy highlights on the can, soft glossy reflections on the jacket, gentle shadows for depth.\nSlightly desaturated yet fresh, youthful modern editorial style, fun soda-campaign aesthetic, clean and minimal composition.\nUltra-sharp focus, natural skin texture, cheerful expressive smile, high-end commercial beverage photography look.\n\nFace must match the attached reference image exactly, accurate facial proportions, realistic skin tone, no facial alteration.\nPhotorealistic, 8K detail, professional studio photography, global soda brand advertisement quality.",
+  tags: [],
+  source: {"name":"@Sheldon056","url":"https://x.com/Sheldon056/status/2000769215989489837"},
+  coverImage: "images/862.jpeg",
+};

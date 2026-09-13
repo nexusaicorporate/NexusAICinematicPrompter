@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "电影混合媒体肖像",
+  prompt: "{\n  \"prompt_type\": \"Cinematic Mixed Media Portrait\",\n  \"subject_details\": {\n    \"main_subject\": \"Young woman with long wavy brown hair\",\n    \"clothing\": \"Loose rust-red t-shirt, high-waisted black pants with white sketch-style outlines, chunky beige sneakers\",\n    \"pose\": \"Relaxing on a modern grey sofa, holding a tall iced coffee, smiling softly and looking to the left\",\n    \"companion_character\": \"Large cartoon character Oggie with glasses, bright colors, exaggerated expressions, holding a red cup with a straw\"\n  },\n  \"environment\": {\n    \"setting\": \"Cozy coffee shop interior\",\n    \"furniture\": \"Modern grey sofa, warm wooden shelves with small decorative items\",\n    \"atmosphere\": \"Minimalist, modern, warm\"\n  },\n  \"lighting_and_composition\": {\n    \"lighting\": \"Soft natural lighting streaming in from the right\",\n    \"blending\": \"Cartoon character seamlessly blended with soft shadows\",\n    \"effects\": \"Subtle doodle-style white line highlights around the woman and cartoon character\"\n  },\n  \"technical_specs\": {\n    \"resolution\": \"High-resolution, vibrant, clean composition\",\n    \"aspect_ratio\": \"3:4\"\n  },\n  \"signature\": \"Shreya Yadav\"\n}",
+  tags: [],
+  source: {"name":"@ShreyaYadav___","url":"https://x.com/ShreyaYadav___/status/1996457038910836841"},
+  coverImage: "images/749.jpeg",
+};

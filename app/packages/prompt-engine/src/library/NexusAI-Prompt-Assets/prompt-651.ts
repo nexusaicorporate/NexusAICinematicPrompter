@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "抹茶女孩",
+  prompt: "{\n  \"scene\": {\n    \"environment\": \"sunny_boardwalk\",\n    \"details\": \"wooden_planks, colorful_stalls, people_walking, distant_umbrellas\",\n    \"lighting\": \"bright_midday_sun\",\n    \"sky\": \"clear_blue\"\n  },\n  \"camera\": {\n    \"lens\": \"ultra_wide_fisheye_12mm\",\n    \"distance\": \"very_close_up\",\n    \"distortion\": \"strong_exaggeration\",\n    \"angle\": \"slightly_low_upward\"\n  },\n  \"subject\": {\n    \"type\": \"young_person\",\n    \"gender\": \"neutral\",\n    \"expression\": \"curious_playful\",\n    \"eyes\": \"large_due_to_lens_distortion\",\n    \"pose\": \"leaning_forward_sipping_drink\",\n    \"clothing\": {\n      \"top\": \"bright_green_knit_sweater\",\n      \"accessory\": \"chunky_blue_sunglasses\"\n    }\n  },\n  \"drink\": {\n    \"type\": \"iced_matcha_latte\",\n    \"ice_cubes\": \"large_clear\",\n    \"cup\": \"transparent_plastic\",\n    \"straw\": \"green_white_spiral\"\n  },\n  \"effects\": {\n    \"depth_of_field\": \"shallow_foreground_sharp_background_soft\",\n    \"reflections\": \"glasses_show_boardwalk_and_people\",\n    \"color_grade\": \"clean_natural\"\n  },\n  \"composition\": {\n    \"focus\": \"face_extreme_closeup\",\n    \"mood\": \"funny_intimate_casual\",\n    \"background_elements\": [\n      \"distant_people\",\n      \"benches\",\n      \"bright_shops\"\n    ]\n  }\n}",
+  tags: [],
+  source: {"name":"@egeberkina","url":"https://x.com/egeberkina/status/1995069549805187087"},
+  coverImage: "images/651.jpeg",
+};

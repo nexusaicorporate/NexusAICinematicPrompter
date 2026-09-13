@@ -1,0 +1,7 @@
+export const Prompt = {
+  title: "字母毛茸茸形象",
+  prompt: "Render a delightful alphabet character ‘[LETTER]’ as a lovable fuzzy being in square 1080x1080 dimensions. Transform the typography into a living creature where the letterform itself becomes the main structure. Position expressive googly eyes and a cheerful mouth as integrated features of the alphabetic design. Texture the surface with luxurious [COLOR] fuzz that mimics high-quality stuffed animal material with photorealistic fiber details.\nFrame against a stark white void to maximize contrast and draw attention to the subject. Infuse the creation with [EMOTION] through strategic facial positioning and expression. Maintain elegant simplicity - avoid anatomical complications or additional appendages. Illuminate using cinematic techniques: primary key lighting to accentuate surface textures, secondary edge illumination for three-dimensional form, plus ambient fill to soften shadow contrasts. Target premium animation studio aesthetics.",
+  tags: ["3d","animal","character","photography","pixel","toy","typography"],
+  source: {"name":"@TechieBySA","url":"https://x.com/TechieBySA/status/1952036222815424586"},
+  coverImage: "images/284.jpeg",
+};
